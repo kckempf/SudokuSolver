@@ -1,0 +1,5 @@
+/Users/kevinkempf/Projects/SudokuSolver/SudokuSolver/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kevinkempf/Projects/SudokuSolver/SudokuSolver/bin/Debug/SudokuSolver.exe.mdb
+/Users/kevinkempf/Projects/SudokuSolver/SudokuSolver/bin/Debug/SudokuSolver.exe
+/Users/kevinkempf/Projects/SudokuSolver/SudokuSolver/obj/x86/Debug/SudokuSolver.exe
+/Users/kevinkempf/Projects/SudokuSolver/SudokuSolver/obj/x86/Debug/SudokuSolver.exe.mdb
